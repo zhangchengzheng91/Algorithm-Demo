@@ -1,0 +1,24 @@
+{
+  "name": "Algorithm-Demo",
+  "version": "1.0.0",
+  "description": "[Array.reverse](/Array-Reverse/README.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangchengzheng91/Algorithm-Demo.git",
+    "jest": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangchengzheng91/Algorithm-Demo/issues"
+  },
+  "homepage": "https://github.com/zhangchengzheng91/Algorithm-Demo#readme",
+  "dependencies": {
+    "jest": "^26.4.0"
+  }
+}
